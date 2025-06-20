@@ -1,4 +1,11 @@
-venv/
+# Python
 __pycache__/
 *.pyc
+
+# Virtual Environment
+venv/
 .env
+
+# VSCode and system
+.vscode/
+.DS_Store
