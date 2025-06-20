@@ -1,0 +1,21 @@
+productType,length_cm,width_cm,height_cm,weight_kg,durability,shippingMethod,recommendedPackage
+Mug,12,9,10,0.4,Medium,Land,Corrugated Box
+Bottle,20,7,7,0.8,Fragile,Air,Bubble-Wrapped Box
+Flask,25,8,8,1.2,Strong,Sea,Corrugated Box
+Plate,30,30,5,2.0,Fragile,Land,Bubble-Wrapped Box
+Cutlery,18,10,5,0.6,Medium,Local,Plastic Wrap
+Vase,28,14,14,1.5,Fragile,Air,Bubble-Wrapped Box
+Book,21,14,3,0.5,Strong,Land,Corrugated Box
+Glassware,15,10,10,0.7,Fragile,Air,Bubble-Wrapped Box
+Laptop,35,25,3,2.5,Medium,Air,Thermal Box
+Smartphone,16,8,2,0.3,Strong,Land,Corrugated Box
+Camera,18,12,10,0.9,Fragile,Air,Bubble-Wrapped Box
+Shoes,30,20,12,1.0,Medium,Land,Corrugated Box
+Lamp,40,20,20,2.0,Fragile,Sea,Bubble-Wrapped Box
+Speaker,25,20,20,2.5,Strong,Sea,Corrugated Box
+Helmet,30,25,25,1.8,Medium,Land,Corrugated Box
+Mirror,50,40,2,3.0,Fragile,Air,Bubble-Wrapped Box
+Tablet,25,15,2,0.5,Strong,Land,Corrugated Box
+Headphones,20,15,10,0.6,Medium,Land,Plastic Wrap
+Toy,15,15,15,0.7,Medium,Land,Corrugated Box
+Jewelry,10,10,5,0.2,Fragile,Air,Bubble-Wrapped Box
